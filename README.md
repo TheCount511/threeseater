@@ -1,3 +1,7 @@
+
+This Projects is an E-commerce App for a Furniture store called Three Seater
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
