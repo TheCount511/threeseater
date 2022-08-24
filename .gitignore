@@ -2,6 +2,9 @@
 
 # dependencies
 /node_modules
+/src/assets/categories/Lateruse
+/src/assets/mainpromo/lateruse
+/src/assets/slidepictures/LaterUse
 /.pnp
 .pnp.js
 

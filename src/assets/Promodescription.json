@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "src": "whitethrows",
+        "note":"Small updates, big impact",
+        "discount":"Up to 50%",
+        "category":"Pillows"
+
+    },
+    {
+        "id": 2,
+        "src": "beds",
+        "note":"Goodbye, blank horizon",
+        "discount":"30%",
+        "category":"Beds and Beddings"
+
+    },
+    {
+        "id": 3,
+        "src": "diningtable",
+        "note":"A view for you",
+        "discount":"Up to 40%",
+        "category":"Dining"
+
+    },
+    {
+        "id": 4,
+        "src": "longcouch",
+        "note":"Reflection of taste",
+        "discount":"30%",
+        "category":"Living Room"
+
+
+    }
+]

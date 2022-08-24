@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "name": "BATH",
+        "src": "bathroom"
+    },
+    {
+        "id": "2",
+        "name": "BED AND BEDROOM",
+        "src": "bedroom",
+        "link":"#"
+    },
+    {
+        "id": "3",
+        "name": "LIVING",
+        "src": "livingroom",
+        "link":"#"
+    },
+    {
+        "id": "4",
+        "name": "DINING",
+        "src": "dining",
+        "link":"#"
+    },
+    {
+        "id": "5",
+        "name": "OUTDOOR",
+        "src": "outdoor",
+        "link":"#"
+    },
+    {
+        "id": "6",
+        "name": "PILLOWS & THROWS",
+        "src": "pillows",
+        "link":"#"
+    }
+]
